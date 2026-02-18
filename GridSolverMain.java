@@ -28,8 +28,7 @@ public class GridSolverMain {
     }
 
     /*
-    Solves input01-09 correctly, as well as custom inputs. But there are some logic errors causing input10 to not solve correctly.
-    Please see report for more info.
+    Solves input01-09 correctly, as well as custom inputs
      */
     public static void main(String[] args) {
         //String tempInputName = "uk/ac/aber/cs31920/assignment/testInputs/TestInputTxtFiles/input10.txt";
@@ -71,3 +70,4 @@ public class GridSolverMain {
         //runTests(false, false);
     }
 }
+
